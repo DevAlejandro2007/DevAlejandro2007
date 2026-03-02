@@ -1,5 +1,11 @@
 <h1 align="left">HOLA A TODOS!</h1>
- https://img.shields.io/badge/github-repo-blue?logo=github
+
+---
+![Python](https://img.shields.io/badge/Python-3.13.2-blue?logo=Python\&logoColor=blue)
+![Git](https://img.shields.io/badge/Git--orange?logo=Git\&logoColor=orange)
+![GitHub](https://img.shields.io/badge/Github--grey?logo=Github\&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FAST-API-brightgreen?style=flat\&logo=Python)
+---
 ###
 
 <div align="center">
@@ -27,6 +33,7 @@
 </div>
 
 ###
+---
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -45,6 +52,7 @@
 </div>
 
 ###
+---
 
 <br clear="both">
 
