@@ -1,4 +1,4 @@
-<h1 align="left">HOLA A TODOS!</h1>
+<h1 align="left">HI EVERYONE!</h1>
 
 ---
 ![Python](https://img.shields.io/badge/Python-3.13.2-blue?logo=Python\&logoColor=blue)
