@@ -1,7 +1,9 @@
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=107&section=header&reversal=false&text=kernel%20y%20terminal&fontSize=70&fontColor=F0F6FC&fontAlign=50&fontAlignY=50&stroke=8B949E&strokeWidth=5&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=161B22"  />
 </div>
-#Hola, mi nombre es Alejandro, soy ingeniero informático enfocado en los sistemas operativos, sistemas de gestión de memoria y programación de bajo nivel!
+# Hola, mi nombre es Alejandro, soy ingeniero informático enfocado en los sistemas operativos, sistemas de gestión de memoria y programación de bajo nivel!
+
+
 ###
 
 <h1 data-importer="text" align="center"> Programación de bajo nivel / Sistemas operativos </h1>
