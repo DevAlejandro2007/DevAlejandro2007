@@ -5,15 +5,13 @@
 <h1 data-importer="text" align="center"> Hola, mi nombre es Alejandro, soy ingeniero informático enfocado en los sistemas operativos, sistemas de gestión de memoria y programación de bajo nivel!
  </h1>
 
-
-
 ###
 
-<h1 data-importer="text" align="center"> Programación de bajo nivel / Sistemas operativos </h1>
+<h2 data-importer="text" align="center"> Programación de bajo nivel / Sistemas operativos </h2>
 
 
-<h2 data-importer="text" align="center"> Kernel de Linux / Sistemas Operativos Basados en C </h2>
-<h2 data-importer="text" align="center"> Unreal Engine / Epic Games  </h2>
+<h3 data-importer="text" align="center"> Kernel de Linux / Sistemas Operativos Basados en C </h3>
+<h3 data-importer="text" align="center"> Unreal Engine / Epic Games  </h3>
 
 
 ### 
