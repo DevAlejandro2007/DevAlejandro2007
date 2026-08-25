@@ -7,7 +7,8 @@
 <h1 data-importer="text" align="center"> Programación de bajo nivel / Sistemas operativos </h1>
 
 
-<h2 data-importer="text" align="center"> Kernel de Linux, Sistemas Operativos Basados en C </h2>
+<h2 data-importer="text" align="center"> Kernel de Linux / Sistemas Operativos Basados en C </h2>
+<h2 data-importer="text" align="center"> Unreal Engine / Epic Games  </h2>
 
 
 ### 
