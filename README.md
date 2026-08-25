@@ -30,6 +30,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="60" alt="ubuntu logo"  />
 </div>
 
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=107&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=161B22"  />
-</div>
+
